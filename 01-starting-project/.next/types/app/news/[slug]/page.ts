@@ -1,4 +1,4 @@
-// File: C:\Users\front\nextStudy\01-starting-project\app\news\[slug]\page.jsx
+// File: C:\Users\프로젝트\newsPage\newsPage\01-starting-project\app\news\[slug]\page.jsx
 import * as entry from '../../../../../app/news/[slug]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
