@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // File: C:\Users\front\nextStudy\newspageDemo\01-starting-project\app\news\page.jsx
+=======
+// File: C:\Users\프로젝트\newsPage\newsPage\01-starting-project\app\news\page.jsx
+>>>>>>> 77182eac4f02bcc073523a14306200fbd7625974
 import * as entry from '../../../../app/news/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
