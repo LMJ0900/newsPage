@@ -1,12 +1,4 @@
 {
-  "/page": "app/page.js",
-<<<<<<< HEAD
-  "/news/[slug]/image/page": "app/news/[slug]/image/page.js",
-  "/not-found": "app/not-found.js",
-  "/archive/@archive/[[...filter]]/page": "app/archive/@archive/[[...filter]]/page.js"
-=======
-  "/icon.jpg/route": "app/icon.jpg/route.js",
-  "/news/page": "app/news/page.js",
-  "/news/[slug]/page": "app/news/[slug]/page.js"
->>>>>>> 77182eac4f02bcc073523a14306200fbd7625974
+  "/(marketing)/page": "app/(marketing)/page.js",
+  "/(content)/news/page": "app/(content)/news/page.js"
 }
